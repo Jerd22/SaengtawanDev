@@ -4,6 +4,8 @@
 <title>เว็ปหาเงิน</title>
 </head>
 <body>
-<a href="https://faucethub.io" >กระเป๋ากลาง</a>
+ <ul>
+    <li><a href="https://faucethub.io" targrt="new" >กระเป๋ากลาง</a></li>
+  </ul>
 </body>
 </html>
