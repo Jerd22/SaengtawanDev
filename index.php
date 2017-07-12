@@ -23,6 +23,7 @@
     <li><a href="https://www.exness.com/a/tdhujdhu" target="_blank" >exness Trader</a></li>
     <li><a href="https://fbs.co.th/" target="_blank" >FBS Trader</a></li>
     <li><a href="https://www.mql5.com/" target="_blank" >MQL5</a></li>
+    <li><a href="https://www.forexfactory.com/calendar.php" target="_blank" >ข่าว Forex</a></li>
 </ul>  
 </body>
 </html>
