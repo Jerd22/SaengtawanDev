@@ -5,7 +5,10 @@
 </head>
 <body>
     <a href="https://clicks.pipaffiliates.com/c?m=9332&c=247295&l=th"><img src="https://ads.pipaffiliates.com/i/9332?c=247295" width="1140" height="150" /></a>
-<ul>
+<table width="100%">
+    <tr>
+        <td>
+    <ul>
     <li><a href="https://coins.co.th/" target="_blank" >กระเป๋าหลัก</a></li>
     <li><a href="https://faucethub.io" target="_blank" >กระเป๋ากลาง</a></li>
     <li><a href="https://www.instant-btc.eu/ref/GEifZ8jebG" target="_blank" >Instant-BTC</a></li>
@@ -27,6 +30,12 @@
     <li><a href="https://www.forexfactory.com/calendar.php" target="_blank" >ข่าว Forex</a></li>
     <li><a href="https://th.investing.com/currencies/eur-usd" target="_blank" >Realtome Forex eur-usd </a></li>
 </ul> 
+        </td>
+        <td>
+            <a href="https://clicks.pipaffiliates.com/c?m=9101&c=247295&l=th"><img src="https://ads.pipaffiliates.com/i/9101?c=247295" width="120" height="600" /></a>
+        </td>
+    </tr>
+    </table>
     <a href="https://clicks.pipaffiliates.com/c?m=9331&c=247295&l=th"><img src="https://ads.pipaffiliates.com/i/9331?c=247295" width="1140" height="150" /></a>
 </body>
 </html>
