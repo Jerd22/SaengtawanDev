@@ -4,10 +4,17 @@
 <title>เว็ปหาเงิน</title>
 </head>
 <body>
-    <a href="https://clicks.pipaffiliates.com/c?m=9332&c=247295&l=th"><img src="https://ads.pipaffiliates.com/i/9332?c=247295" width="1140" height="150" /></a>
-<table width="100%">
+ <table width="100%">
     <tr>
-        <td>
+        <td >   
+    <a href="https://clicks.pipaffiliates.com/c?m=9332&c=247295&l=th"><img src="https://ads.pipaffiliates.com/i/9332?c=247295" width="1140" height="150" /></a>
+        </td>
+        <td rowspan="3">
+            <a href="https://clicks.pipaffiliates.com/c?m=9101&c=247295&l=th"><img src="https://ads.pipaffiliates.com/i/9101?c=247295" width="120" height="600" /></a>
+        </td>
+     </tr>
+     <tr>
+         <td>
     <ul>
     <li><a href="https://coins.co.th/" target="_blank" >กระเป๋าหลัก</a></li>
     <li><a href="https://faucethub.io" target="_blank" >กระเป๋ากลาง</a></li>
@@ -31,11 +38,12 @@
     <li><a href="https://th.investing.com/currencies/eur-usd" target="_blank" >Realtome Forex eur-usd </a></li>
 </ul> 
         </td>
-        <td>
-            <a href="https://clicks.pipaffiliates.com/c?m=9101&c=247295&l=th"><img src="https://ads.pipaffiliates.com/i/9101?c=247295" width="120" height="600" /></a>
-        </td>
-    </tr>
-    </table>
+     </tr>
+<tr>
+<td>
     <a href="https://clicks.pipaffiliates.com/c?m=9331&c=247295&l=th"><img src="https://ads.pipaffiliates.com/i/9331?c=247295" width="1140" height="150" /></a>
-</body>
+     </td>
+     </tr>
+    </table>
+     </body>
 </html>
