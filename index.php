@@ -4,6 +4,7 @@
 <title>เว็ปหาเงิน</title>
 </head>
 <body>
+    <a href="https://clicks.pipaffiliates.com/c?m=9332&c=247295&l=th"><img src="https://ads.pipaffiliates.com/i/9332?c=247295" width="1140" height="150" /></a>
 <ul>
     <li><a href="https://coins.co.th/" target="_blank" >กระเป๋าหลัก</a></li>
     <li><a href="https://faucethub.io" target="_blank" >กระเป๋ากลาง</a></li>
@@ -25,6 +26,7 @@
     <li><a href="https://www.mql5.com/" target="_blank" >MQL5</a></li>
     <li><a href="https://www.forexfactory.com/calendar.php" target="_blank" >ข่าว Forex</a></li>
     <li><a href="https://th.investing.com/currencies/eur-usd" target="_blank" >Realtome Forex eur-usd </a></li>
-</ul>  
+</ul> 
+    <a href="https://clicks.pipaffiliates.com/c?m=9331&c=247295&l=th"><img src="https://ads.pipaffiliates.com/i/9331?c=247295" width="1140" height="150" /></a>
 </body>
 </html>
